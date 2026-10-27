@@ -1,0 +1,13 @@
+# Generated dataset
+data/mini_ratings.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
